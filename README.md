@@ -1,6 +1,9 @@
-<div style="font-size: 25px;font-weight: bold;display: flex; align-items:center;">
-<img height="30" width="30" src="bar-chart.gif" style="padding-right: 10px;"/> Github Stats
-</div>
+<table border="0" style="border-collapse: collapse;border:none;">
+  <tr>
+    <td><img height="30" width="30" src="bar-chart.gif"/></td>
+    <td>Github Stats</td>
+  </tr>
+</table>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
 
