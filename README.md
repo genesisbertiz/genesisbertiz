@@ -1,5 +1,5 @@
 <b>
-<img height="20" width="20" src="bar-chart.gif" style="padding-right: 5px;"/>
+<img height="24" width="24" src="bar-chart.gif" style="padding-right: 5px;"/>
 <span>Github Stats</span>
 </b>
 
@@ -18,7 +18,7 @@
 #
 
 <b>
-<img height="20" width="20" src="coding.gif" style="padding-right: 5px;"/>
+<img height="24" width="24" src="coding.gif" style="padding-right: 5px;"/>
 <span>Coding</span>
 </b>
 
@@ -28,7 +28,7 @@
 #
 
 <b>
-<img height="20" width="20" src="connect.gif" style="padding-right: 5px;"/>
+<img height="24" width="24" src="connect.gif" style="padding-right: 5px;"/>
 <span>Connect With Me</span>
 </b>
 
