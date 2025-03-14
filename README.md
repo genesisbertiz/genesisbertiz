@@ -1,7 +1,7 @@
 <table border="0" style="border-collapse: collapse;border:none;">
-  <tr>
-    <td><img height="30" width="30" src="bar-chart.gif"/></td>
-    <td>Github Stats</td>
+  <tr style="border: none;" align="left">
+    <td style="border: none;" align="left"><img height="30" width="30" src="bar-chart.gif"/></td>
+    <td style="border: none;text-align:left;" align="left">Github Stats</td>
   </tr>
 </table>
 
