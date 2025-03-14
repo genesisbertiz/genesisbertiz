@@ -9,7 +9,7 @@
 
 <img height="25" width="25" src="technology.gif" style="padding-top: 6px;padding-right: 10px; float: left;"/>
 
-### Tech Stack
+<h3>Infrastructure</h3>
 
 ### Infrastructure
 
