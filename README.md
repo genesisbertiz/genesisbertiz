@@ -11,14 +11,11 @@
 <img height="20" width="20" src="management.gif" style="padding-right: 5px;"/>
 <span>Infrastructures</span>
 </b>
-<div style="margin-top:10px;"></div>
 
-<div style="display: flex;">
+![alt text](aws.png) ![alt text](aws.png)
+
 <a href="https://github.com/genesisbertiz/genesisbertiz"><img height="30" width="30" src="aws.png"/></a>
-
-<a href="https://github.com/genesisbertiz/genesisbertiz" style="margin-left:10px;"><img height="30" width="30" src="digitalocean.png"/></a>
-
-</div>
+<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="30" width="30" src="digitalocean.png" style="margin-left: 10px"/></a>
 
 #
 
@@ -37,7 +34,7 @@
 #
 
 <b>
-<img height="20" width="20" src="relationship.gif" style="padding-right: 5px;"/>
+<img height="20" width="20" src="connect.gif" style="padding-right: 5px;"/>
 <span>Connect With Me</span>
 </b>
 
