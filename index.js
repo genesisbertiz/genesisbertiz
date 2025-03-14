@@ -83,7 +83,7 @@ for (let index = 0; index < data.length; index++) {
     case 'Icon':
       for (let a = 0; a < content.length; a++) {
         const element = content[a];
-        markdownContent += `<a href="${element.link}" target="_blank" rel="noreferrer">
+        markdownContent += `<a href="${element.link}">
           <img height="35" width="35" src="${element.src}"/>
         </a>`
         markdownContent += `\n`

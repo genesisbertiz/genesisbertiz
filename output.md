@@ -6,22 +6,22 @@
 
 ## ![alt text](management.gif) **Infrastructures**
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<a href="https://aws.amazon.com">
           <img height="35" width="35" src="aws.png"/>
         </a>
-<a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
+<a href="https://www.digitalocean.com">
           <img height="35" width="35" src="digitalocean.png"/>
         </a>
 
 ## ![alt text](coding.gif) **Coding**
 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+<a href="https://nodejs.org/en">
           <img height="35" width="35" src="nodejs.png"/>
         </a>
-<a href="https://angular.dev" target="_blank" rel="noreferrer">
+<a href="https://angular.dev">
           <img height="35" width="35" src="angular.png"/>
         </a>
-<a href="https://react.dev" target="_blank" rel="noreferrer">
+<a href="https://react.dev">
           <img height="35" width="35" src="reactjs.png"/>
         </a>
 
