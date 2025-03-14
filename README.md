@@ -7,10 +7,11 @@
 
 <b>
 <img height="16" width="16" src="technology.gif" style="padding-right: 5px;"/>
-<span>Infrastructure</span>
+<span>Infrastructures</span>
 </b>
 
-<img height="40" width="40" src="image.png"/>
+<div style="margin-top:10px;"></div>
+<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="30" width="30" src="image.png"/></a>
 
 <div style="margin-top:2rem"></div>
 
