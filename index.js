@@ -18,7 +18,7 @@ const data = [
     content: [
       {
         link: "https://aws.amazon.com",
-        src: "./assets/aws.png"
+        src: "aws.png"
       },
       {
         link: "https://www.digitalocean.com",
@@ -71,7 +71,7 @@ for (let index = 0; index < data.length; index++) {
   const type = element.type
   const content = element.content
   markdownContent += `\n`
-  markdownContent += `## ![alt text](${element.icon}) **${element.title}**`
+  markdownContent += `## ![alt text](assets/${element.icon}) **${element.title}**`
   markdownContent += `\n`
   markdownContent += `\n`
   switch(type) {
@@ -83,7 +83,7 @@ for (let index = 0; index < data.length; index++) {
     case 'Icon':
       for (let a = 0; a < content.length; a++) {
         const element = content[a];
-        markdownContent += `<a href="${element.link}"><img height="35" width="35" src="${element.src}"/></a>`
+        markdownContent += `<a href="${element.link}"><img height="35" width="35" src="assets/${element.src}"/></a>`
         markdownContent += `\n`
       }
       break;    
