@@ -4,6 +4,9 @@
     <td style="border: none;text-align:left;" align="left">Github Stats</td>
   </tr>
 </table>
+<div style="text-align:left;">
+<img height="25" width="25" src="technology.gif" style="padding-right: 10px;"/>Github Stats
+</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
 
