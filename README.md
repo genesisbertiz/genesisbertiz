@@ -4,13 +4,14 @@
 
 ## ![alt text](management.gif) **Infrastructures**
 
-<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="aws.png"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img height="35" width="35" src="aws.png"/></a>
 <a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="digitalocean.png" style="margin-left: 10px"/></a>
 
 ## ![alt text](coding.gif) **Coding**
 
-<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="angular.png"/></a>
-<a href="https://github.com/genesisbertiz/genesisbertiz" style="margin-left:10px;"><img height="35" width="35" src="reactjs.png"/></a>
+<a href="https://nodejs.org/en"><img height="35" width="35" src="nodejs.png"/></a>
+<a href="https://angular.dev/"><img height="35" width="35" src="angular.png"/></a>
+<a href="https://react.dev" style="margin-left:10px;"><img height="35" width="35" src="reactjs.png"/></a>
 
 ## ![alt text](connect.gif) **Connect With Me**
 
