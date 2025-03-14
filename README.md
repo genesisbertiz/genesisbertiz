@@ -12,10 +12,8 @@
 <span>Infrastructures</span>
 </b>
 
-![alt text](aws.png) ![alt text](aws.png)
-
-<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="30" width="30" src="aws.png"/></a>
-<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="30" width="30" src="digitalocean.png" style="margin-left: 10px"/></a>
+<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="aws.png"/></a>
+<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="digitalocean.png" style="margin-left: 10px"/></a>
 
 #
 
@@ -24,12 +22,8 @@
 <span>Coding</span>
 </b>
 
-<div style="display: flex;">
-<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="30" width="30" src="angular.png"/></a>
-
-<a href="https://github.com/genesisbertiz/genesisbertiz" style="margin-left:10px;"><img height="30" width="30" src="reactjs.png"/></a>
-
-</div>
+<a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="angular.png"/></a>
+<a href="https://github.com/genesisbertiz/genesisbertiz" style="margin-left:10px;"><img height="35" width="35" src="reactjs.png"/></a>
 
 #
 
