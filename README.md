@@ -4,8 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-<div style="font-size: 25px;font-weight: bold;display: flex; align-items:center;">
-<img height="30" width="30" src="technology.gif" style="padding-right: 10px;"/> Tech Stack
+<div style="font-size: 25px;font-weight: bold; display: block;">
+<img height="30" width="30" src="technology.gif" style="padding-right: 10px; float: left;"/> <div style="line-height: 30px;">Tech Stack</div>
 </div>
 
 ### Infrastructure
