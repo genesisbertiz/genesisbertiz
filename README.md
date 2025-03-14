@@ -1,6 +1,4 @@
-<div style="text-align:left;padding-bottom:5px;">
-<img height="25" width="25" src="technology.gif" style="padding-right: 10px;"/><div style="padding-bottom:3px;display:inline-block;">Github Stats</div>
-</div>
+<img height="16" width="16" src="technology.gif" style="padding-right: 10px;padding-top:10px;"/>Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
 
