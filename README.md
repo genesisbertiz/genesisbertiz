@@ -4,8 +4,6 @@
 
 ## ![alt text](management.gif) **Infrastructures**
 
-#
-
 <a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="aws.png"/></a>
 <a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="digitalocean.png" style="margin-left: 10px"/></a>
 
