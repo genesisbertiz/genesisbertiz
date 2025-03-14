@@ -12,12 +12,7 @@
 <a href="https://github.com/genesisbertiz/genesisbertiz"><img height="35" width="35" src="angular.png"/></a>
 <a href="https://github.com/genesisbertiz/genesisbertiz" style="margin-left:10px;"><img height="35" width="35" src="reactjs.png"/></a>
 
-#
-
-<b>
-<img height="24" width="24" src="connect.gif" style="padding-right: 5px;"/>
-<span>Connect With Me</span>
-</b>
+## ![alt text](connect.gif) **Connect With Me**
 
 - [GitHub](https://github.com/genesisbertiz)
 - [LinkedIn](https://linkedin.com/in/genesisbertiz)
