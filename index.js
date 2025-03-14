@@ -106,5 +106,5 @@ markdownContent += `
 `
 
 // Save to a .md file
-fs.writeFileSync('output.md', markdownContent);
-console.log('Markdown file generated: output.md');
+fs.writeFileSync('README.md', markdownContent);
+console.log('Markdown file generated: README.md');
