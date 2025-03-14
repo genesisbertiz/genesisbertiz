@@ -6,7 +6,7 @@
 
 ## ![alt text](management.gif) **Infrastructures**
 
-<a href="https://aws.amazon.com"><img height="35" width="35" src="aws.png"/></a>
+<a href="https://aws.amazon.com"><img height="35" width="35" src="./assets/aws.png"/></a>
 <a href="https://www.digitalocean.com"><img height="35" width="35" src="digitalocean.png"/></a>
 
 ## ![alt text](coding.gif) **Coding**

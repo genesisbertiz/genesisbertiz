@@ -18,7 +18,7 @@ const data = [
     content: [
       {
         link: "https://aws.amazon.com",
-        src: "aws.png"
+        src: "./assets/aws.png"
       },
       {
         link: "https://www.digitalocean.com",
