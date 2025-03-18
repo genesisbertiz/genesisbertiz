@@ -27,6 +27,25 @@ const data = [
     ]
   },
   {
+    title: 'Frameworks',
+    icon: 'coding.gif',
+    type: 'Icon', // Image, Icon, or List 
+    content: [
+      {
+        link: "https://nodejs.org/en",
+        src: "nodejs.png"
+      },
+      {
+        link: "https://angular.dev",
+        src: "angular.png"
+      },
+      {
+        link: "https://react.dev",
+        src: "reactjs.png"
+      },
+    ]
+  },
+  {
     title: 'Coding',
     icon: 'coding.gif',
     type: 'Icon', // Image, Icon, or List 

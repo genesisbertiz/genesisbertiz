@@ -1,8 +1,6 @@
-
 ## ![alt text](assets/bar-chart.gif) **Github Stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
-
 
 ## ![alt text](assets/management.gif) **Infrastructures**
 
@@ -22,5 +20,7 @@
 - [Portfolio](https://genesisbertiz.vercel.app)
 
 #
+
+<img align="right" alt="Background" src="assets/coding-bg.gif" width="400" style="position: absolute; right: 0; bottom: 0;"/>
 
 <a href="https://www.flaticon.com/free-animated-icons/illustration" title="illustration animated icons">Illustration animated icons created by Freepik - Flaticon</a>
