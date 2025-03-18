@@ -2,14 +2,14 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-## ![alt text](assets/management.gif) **Infrastructures**
+### ![alt text](assets/management.gif) **Infrastructure**
 
 <a href="https://aws.amazon.com"><img height="35" width="35" src="assets/aws.png"/></a>
 <a href="https://www.digitalocean.com"><img height="35" width="35" src="assets/digitalocean.png"/></a>
 
-<img align="right" alt="Background" src="assets/coding-bg.gif" width="400"/>
+<img align="right" alt="Background" src="assets/coding-bg2.gif" width="400"/>
 
-## ![alt text](assets/coding.gif) **Coding**
+### ![alt text](assets/coding.gif) **Coding**
 
 <a href="https://nodejs.org/en"><img height="35" width="35" src="assets/nodejs.png"/></a>
 <a href="https://angular.dev"><img height="35" width="35" src="assets/angular.png"/></a>
