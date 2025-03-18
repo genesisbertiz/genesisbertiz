@@ -5,6 +5,7 @@ const data = [
   {
     title: 'Github Stats',
     icon: 'bar-chart.gif',
+    line: true,
     type: 'Image', // Image, Icon, or List 
     content: {
       alt: 'Github Stats',
@@ -44,6 +45,15 @@ const data = [
         src: "reactjs.png"
       },
     ]
+  },
+  {
+    type: 'ImageHTML', // Image, Icon, or List 
+    content: {
+      align: 'right',
+      alt: 'Background',
+      src: 'assets/coding-bg2.gif',
+      width: '400'
+    },
   },
   {
     title: 'Coding',
@@ -89,13 +99,25 @@ for (let index = 0; index < data.length; index++) {
   const element = data[index];
   const type = element.type
   const content = element.content
+  const line = element.line ?? false
   markdownContent += `\n`
-  markdownContent += `## ![alt text](assets/${element.icon}) **${element.title}**`
+  if (element.title) {
+    if (line) {
+      markdownContent += `## ![alt text](assets/${element.icon}) **${element.title}**`
+    } else {
+      markdownContent += `### ![alt text](assets/${element.icon}) **${element.title}**`
+    }
+  }
   markdownContent += `\n`
   markdownContent += `\n`
   switch(type) {
     case 'Image':
       markdownContent += `![${content.alt}](${content.src})`
+      markdownContent += `\n`
+      markdownContent += `\n`
+      break;
+    case 'ImageHTML':
+      markdownContent += `<img align="${content.align}" alt="${content.alt}" src="${content.src}" width="${content.width}"/>`
       markdownContent += `\n`
       markdownContent += `\n`
       break;
@@ -119,7 +141,6 @@ for (let index = 0; index < data.length; index++) {
 }
 
 markdownContent += `
-#
 
 <a href="https://www.flaticon.com/free-animated-icons/illustration" title="illustration animated icons">Illustration animated icons created by Freepik - Flaticon</a>
 `
