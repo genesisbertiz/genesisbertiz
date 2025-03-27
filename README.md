@@ -1,24 +1,21 @@
+# Hey There! I'm Genesis :wave:
+
+🚀 Mid-Level Software Engineer | Full-Stack Developer
+
+🔧 Passionate about building scalable apps, optimizing performance, and solving complex problems
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,angular,react,nextjs,vite,php,javascript,css,scss,styledcomponents,figma,aws,nestjs,express,docker,git,githubactions,graphql,mysql,postgres,linux,supabase," />
+  </a>
+</p>
+
 ## ![alt text](assets/bar-chart.gif) **Github Stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=genesisbertiz&theme=default&show_icons=true&hide_border=true&layout=compact)
 
-### ![alt text](assets/management.gif) **Infrastructure**
-
-<a href="https://aws.amazon.com"><img height="35" width="35" src="assets/aws.png"/></a>
-<a href="https://www.digitalocean.com"><img height="35" width="35" src="assets/digitalocean.png"/></a>
-
-<img align="right" alt="Background" src="assets/coding-bg2.gif" width="400"/>
-
-### ![alt text](assets/coding.gif) **Coding**
-
-<a href="https://nodejs.org/en"><img height="35" width="35" src="assets/nodejs.png"/></a>
-<a href="https://angular.dev"><img height="35" width="35" src="assets/angular.png"/></a>
-<a href="https://react.dev"><img height="35" width="35" src="assets/reactjs.png"/></a>
-
 ### ![alt text](assets/connect.gif) **Connect With Me**
 
-- [GitHub](https://github.com/genesisbertiz)
-- [LinkedIn](https://linkedin.com/in/genesisbertiz)
-- [Portfolio](https://genesisbertiz.vercel.app)
-
-<!-- <a href="https://www.flaticon.com/free-animated-icons/illustration" title="illustration animated icons">Illustration animated icons created by Freepik - Flaticon</a> -->
+[![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/genesisbertiz)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://github.com/genesisbertiz)
+[![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://genesisbertiz.vercel.app)
