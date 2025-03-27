@@ -16,6 +16,5 @@
 
 ## **Connect With Me** ![alt text](assets/connect.gif)
 
-[![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/genesisbertiz)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://github.com/genesisbertiz)
 [![My Skills](https://skillicons.dev/icons?i=html&perline=3)](https://genesisbertiz.vercel.app)
