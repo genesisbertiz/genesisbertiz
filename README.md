@@ -5,7 +5,7 @@
 🔧 Passionate about building scalable apps, optimizing performance, and solving complex problems
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=nodejs,angular,react,vite,php,javascript,css,scss,styledcomponents,nestjs,express,graphql,mysql,postgres,supabase,figma,xd,ai,ps,aws,docker,git,githubactions,linux,debian,devto" />
   </a>
 </p>
